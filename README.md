@@ -1,0 +1,2 @@
+# Personajes
+Clase MinTic
